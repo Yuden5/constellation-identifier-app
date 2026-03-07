@@ -50,7 +50,7 @@ Download from Google Drive:
 
 Place images in:
 ```
-data/images/
+/content/drive/MyDrive/images
 cassiopeia/
 crux/
 cygnus/

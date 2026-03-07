@@ -5,7 +5,7 @@ Google Drive: https://drive.google.com/drive/folders/1q4SkFq9ItMgH9Xq33CHmbNABI9
 
 Place the dataset as:
 ```
-data/images/
+/content/drive/MyDrive/images
 cassiopeia/
 crux/
 cygnus/

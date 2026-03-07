@@ -1,5 +1,11 @@
 # Constellation Classifier (CNN)
 
+![Python](https://img.shields.io/badge/Python-3.9+-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
+![Framework](https://img.shields.io/badge/Interface-Gradio-purple)
+![Notebook](https://img.shields.io/badge/Environment-Google%20Colab-yellow)
+![License](https://img.shields.io/badge/License-Academic-green)
+
 A deep learning model for classifying star constellation images using **TensorFlow/Keras**.  
 The model is trained on images of 8 constellations and includes a **Gradio interface** for interactive prediction.
 

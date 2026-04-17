@@ -12,7 +12,6 @@ cygnus/
 gemini/
 leo/
 orion/
-scorpius/
 ursa_major/
 
 ```

@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-Academic-green)
 
 A deep learning model for classifying star constellation images using **TensorFlow/Keras**.  
-The model is trained on images of 8 constellations and includes a **Gradio interface** for interactive prediction.
+The model is trained on images of 7 constellations and includes a **Gradio interface** for interactive prediction.
 
 ## Classes
 - Cassiopeia

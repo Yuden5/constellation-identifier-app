@@ -16,7 +16,6 @@ The model is trained on images of 8 constellations and includes a **Gradio inter
 - Gemini
 - Leo
 - Orion
-- Scorpius
 - Ursa Major
 
 ---
@@ -46,7 +45,7 @@ constellation-classifier/
 The dataset is **not included** due to size limitations.
 
 Download from Google Drive:  
-**https://drive.google.com/drive/folders/1q4SkFq9ItMgH9Xq33CHmbNABI9_7iljr?usp=sharing**
+**https://colab.research.google.com/drive/1Jdw3X--xZGGcvwlPqtbwl4IgubRD2Rvu?usp=sharing**
 
 Place images in:
 ```
@@ -57,7 +56,6 @@ cygnus/
 gemini/
 leo/
 orion/
-scorpius/
 ursa_major/
 ```
 ## Author:

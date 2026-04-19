@@ -3,7 +3,7 @@
 ## 🚧 Under Construction 
 
 This project is a living experiment. I am constantly tweaking, testing and breaking things more than developing it (jk).
-So, if you if something looks inconsistent and weird- don't worry, it probably won't look like that tomorrow either.
+So, if you see something that looks inconsistent and weird- don't worry, it probably won't look like that tomorrow either.
 
 * Final version coming soon (hopefully)..... once I stop changing my mind.
 

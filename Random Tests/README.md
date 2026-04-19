@@ -19,4 +19,7 @@ Run only:
 
 (run at your own risk. and maybe keep your task manager open)
 
+ファイトだよ！
+
 ![hmmm](https://i.pinimg.com/736x/5a/ed/7b/5aed7b32eef240adab815af1f392f697.jpg)
+

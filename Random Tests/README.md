@@ -1,4 +1,5 @@
 ## ⚠️ Warning: You have entered my experimental graveyard.
+(i know. too many READMEs. bear with me)
 
 This folder contains chaotic (and possibly missing files and code) from the model development phase.
 The scripts are unoptimized, inconsistent and terrible.
